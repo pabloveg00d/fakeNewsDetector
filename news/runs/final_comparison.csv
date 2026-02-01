@@ -1,0 +1,3 @@
+method,f1
+TF-IDF (LinearSVM),0.9865843270868825
+Embeddings (MiniLM) + LogReg,0.9353905496624879
